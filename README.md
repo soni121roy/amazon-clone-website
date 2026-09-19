@@ -1,5 +1,5 @@
 # Amazon Clone Website
-Live Demo: https://soni121roy.github.io/amazon-done-website/
+Live Demo: https://soni121roy.github.io/amazon-clone-website/
 Tech Stack: HTML, CSS
 A responsive Amazon homepage clone.
 
